@@ -1,0 +1,19 @@
+.hourdiv {
+  height: 100px;
+  width: 200px;
+  border: 1px solid black;
+  position: relative;
+}
+
+span {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.filled {
+  background-color: cornflowerblue;
+}
+.empty {
+  background-color: white;
+}
